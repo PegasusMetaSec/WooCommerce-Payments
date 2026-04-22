@@ -1,6 +1,7 @@
 <div align="center">
   
-# 🦄 MetaSecPegasus - WordPress Exploitation Framework
+<img width="1254" height="1254" alt="WhatsApp Image 2026-04-22 at 03 05 23" src="https://github.com/user-attachments/assets/9993f850-883c-46aa-9954-b460d4dc06a7" />
+
 
 ### *Advanced WordPress Security Testing & Exploitation Tool*
 
@@ -10,6 +11,10 @@
 [![Security](https://img.shields.io/badge/security-testing-orange.svg)](https://github.com/MetaSecPegasus)
 
 </div>
+
+
+<img width="1918" height="987" alt="Screenshot 2026-04-22 131335" src="https://github.com/user-attachments/assets/6eab2ef2-5196-43d9-b980-7da9f7a35b46" />
+
 
 ---
 
